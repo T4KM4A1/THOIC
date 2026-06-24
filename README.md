@@ -9,6 +9,7 @@ cd THOIC
 bash
 
 $ chmod +x start.py or chmod +x start.py
+
 $ ./start.py or python3 start.py
 
 you will see 
