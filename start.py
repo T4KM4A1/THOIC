@@ -365,7 +365,7 @@ def tool_dstat():
 # ───── Main menu ─────────────────────────────────────
 def main_menu():
     while True:
-        print("\n===== HackerGPT Lite =====")
+        print("\n===== THOIC DDOS SYSTEM =====")
         print("1. Layer‑7 attack")
         print("2. Layer‑4 attack")
         print("3. Console tools")
